@@ -1,0 +1,4 @@
+to change the state of a pc, change the contents of the corresponding file (i.e. pc_001_state)
+
+A 0 indicates the pc to either shutdown or remain off
+aA 1 indicates the pc to either turn on or remain on
